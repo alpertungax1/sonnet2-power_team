@@ -13,7 +13,7 @@ Deadline: 18 September 2026, 12:00 UTC
 ## Steps
 
 1. Confirm the cutoff on your existing DID. A new key is too late to vote.
-2. Register as voter through the official rooms or a community desk.
+2. Register as voter through the official rooms.
 3. Open Vote.
 4. Enter `power_team`.
 5. Sign. Later ballots replace earlier ones. The last one is the only one that pays if this poem wins.

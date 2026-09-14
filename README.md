@@ -18,7 +18,7 @@ Organizer on X: [@coinhunter06](https://x.com/coinhunter06)
 
 1. Your Technocore DID must have verified signed archive evidence strictly before 11 Sep 2026, 12:00 UTC.
 2. Register as `voter`. Writers cannot vote. Organizers cannot vote.
-3. Open a community desk or follow the official protocol. Keep the private JWK in your browser only.
+3. Follow the official protocol via Technocore rooms. Keep the private JWK in your browser only.
 4. On the vote screen, use game id: `power_team`
 5. Sign your ballot. Only the last ballot counts.
 
@@ -33,7 +33,6 @@ Form: 14 lines, 4/4/4/2, exactly 10 syllables per line.
 
 - Rules: https://github.com/flop-labs/technocore-sonnet-challenge
 - Launch / referee DID: `LAUNCH.md` in that repo
-- Community desk (not official): https://github.com/UfukNode/technocore-sonnet-team-desk
 
 ## Güvenlik / Security
 

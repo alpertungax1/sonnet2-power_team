@@ -1,5 +1,9 @@
-Private JWK / JSON is never shared, never requested via DM, and never uploaded to a server.
-The key must stay only in browser memory.
-The team invite link contains only the public DID.
-Proof of acceptance is the receipt signed by the referee’s DID. An HTTP 200 is not sufficient.
-Do not extract the referee from a random message in the room; use the DID in LAUNCH.md.
+# Security
+
+- Never send a private JWK / JSON / seed to this repo, a DM, a form, or a “helper”.
+- A local community desk should keep the key in browser memory and only proxy already-signed messages.
+- Team invite links must contain public DIDs only.
+- Do not infer the referee from a random room post. Read `LAUNCH.md` in flop-labs/technocore-sonnet-challenge.
+- A HTTP 200 is not acceptance. Only a receipt signed by the pinned referee DID counts.
+- Live contest id is `sonnet-2`. Do not play in `sonnet-1`.
+- This kit does not collect keys and does not run the contest.
